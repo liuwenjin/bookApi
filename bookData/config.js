@@ -1,6 +1,6 @@
 var data = {
-  secretId: 'AKIDY1LcsIikszCGAvHADCB5oPsPnRAs60Uv',
-  secretKey: 'd9ZxVxX0VBhIC7xiLzgJrLkz63ufJsyw',
+  secretId: 'AKIDY1LcsIikszCGAvHADCB5oPsxxxxxxxx',
+  secretKey: 'd9ZxVxX0VBhIC7xiLzgJrLkzxxxxxxxx',
   proxy: '',
   duration: 60*60,
   appid: 1254183942,
